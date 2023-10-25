@@ -4,7 +4,7 @@ Project for Issue (https://github.com/quarkusio/quarkus/issues/36677).
 
 Using Enums in Collections (here a Set is used) results in an corrupted openapi.yaml file.
 
-Run org.acme.CheckOpenApiTest different Qaurkus Versions (change quarkus.platform.version in pom.xml to 3.4.3 or 3.5.0.CR1).
+Run `org.acme.CheckOpenApiTest`with different Quarkus Versions (change quarkus.platform.version in pom.xml to 3.4.3 or 3.5.0.CR1).
 
 # quarkus
 
